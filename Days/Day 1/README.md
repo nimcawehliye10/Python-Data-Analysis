@@ -4,16 +4,17 @@
 
 Today I started learning **Python for Data Analysis** using the **Pandas** library.
 
-I practiced loading an Excel dataset into Python and performing basic data exploration.
+I practiced loading an Excel dataset into Python and performing basic data exploration using Google Colab.
 
 ---
 
-## 🛠️ Tools & Library
+## 🛠️ Tools & Libraries
 
 * Python
 * Google Colab
 * Pandas
-* Excel dataset
+* NumPy
+* Excel
 
 ---
 
@@ -152,7 +153,7 @@ During the initial exploration, I checked:
 
 ## 📸 Screenshots
 
-The `screenshots` folder contains screenshots from my Google Colab practice and today's Python Data Analysis lesson.
+The `screan shots` folder contains screenshots from my Google Colab practice and Day 01 Python Data Analysis lesson.
 
 ---
 
@@ -178,3 +179,9 @@ By the end of Day 01, I learned how to:
 Continue learning Python Data Analysis and practice more Pandas functions.
 
 **Day 01 completed ✅**
+
+---
+
+## 👩‍💻 Author
+
+**Nimca Abdirahim Wehliye**
